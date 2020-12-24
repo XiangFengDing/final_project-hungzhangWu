@@ -1,2 +1,4 @@
-# final_project-hungzhangWu
-final_project-hungzhangWu created by GitHub Classroom
+# final_project-hungzhangWu 
+# Project 16
+已知 1^1+2^2+3^3+......+10^10=10405071317.
+找出 1^1+2^2+3^3+......+1000^1000 的小數點前十位數字
